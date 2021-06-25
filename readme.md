@@ -1,6 +1,6 @@
 <!-- ## SERGIO (Server Ping Monitoring) -->
 
-<p align="center"><img src="/static/img/logo-001.gif" width="300"  style="margin-top:-60px;margin-bottom:-70px"></p>
+<p align="center"><img src="/static/img/logo-002.gif" width="300"></p>
 
 Let’s face it—the Internet is a fragile thing. Stuff breaks every now and then. Sergio lets you know when it does and what happened exactly.
 
